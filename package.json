@@ -16,7 +16,9 @@
       ]
     ]
   },
-  "scripts": {},
+  "scripts": {
+    "version": "npx @pika/pack"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
